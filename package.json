@@ -2,7 +2,7 @@
   "name": "angular-extension-pack",
   "displayName": "Angular Extension Pack",
   "description": "An extension pack for Angular developers.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -30,6 +30,10 @@
     "rexebin.f12-open-file",
     "robertohuertasm.vscode-icons",
     "stringham.move-ts",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "NG-42.ng-fortytwo-vscode-extension",
+    "SimonTest.simontest",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag"
   ]
 }

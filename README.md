@@ -21,3 +21,7 @@ Extensions:
 1.  [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 1.  [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 1.  [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
+1.  [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension)
+1.  [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
+1.  [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+1.  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
