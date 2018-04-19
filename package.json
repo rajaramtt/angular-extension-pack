@@ -11,6 +11,7 @@
   "engines": {
     "vscode": "^1.22.0"
   },
+  "keywords": ["angular", "extension pack", "extension"],
   "categories": ["Extension Packs"],
   "extensionDependencies": [
     "Angular.ng-template",
