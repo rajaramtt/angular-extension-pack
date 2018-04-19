@@ -1,0 +1,34 @@
+{
+  "name": "angular-extension-pack",
+  "displayName": "Angular Extension Pack",
+  "description": "An extension pack for Angular developers.",
+  "version": "0.0.1",
+  "publisher": "rexebin",
+  "icon": "angular.png",
+  "repository": {
+    "url": "https://www.github.com/rexebin/angular-extension-pack"
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Extension Packs"],
+  "extensionDependencies": [
+    "Angular.ng-template",
+    "christian-kohler.path-intellisense",
+    "chrmarti.regex",
+    "eg2.tslint",
+    "esbenp.prettier-vscode",
+    "gamunu.vscode-yarn",
+    "infinity1207.angular2-switcher",
+    "Mikael.Angular-BeastCode",
+    "msjsdiag.debugger-for-chrome",
+    "natewallace.angular2-inline",
+    "nonoroazoro.syncing",
+    "pflannery.vscode-versionlens",
+    "rexebin.classlens",
+    "rexebin.f12-open-file",
+    "robertohuertasm.vscode-icons",
+    "stringham.move-ts",
+    "eamodio.gitlens"
+  ]
+}
