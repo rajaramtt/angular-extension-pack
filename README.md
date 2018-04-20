@@ -48,10 +48,6 @@ An extension pack for Angular developers.
 
     Supports moving typescript files and updating relative imports within the workspace.
 
-1.  [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-    GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
-
 1.  [F12: Open File](https://marketplace.visualstudio.com/items?itemName=rexebin.f12-open-file)
 
     Open Angular's templateUrl and styleUrls at a key stroke: F12
@@ -63,12 +59,6 @@ An extension pack for Angular developers.
 1.  [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 
     Yarn from vscode.
-
-1.  [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
-
-    Sync all of your VSCode settings across multiple devices with GitHub Gist.
-
-    Very handy for those who work with multiple computers in multiple places.
 
 1.  [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension)
 
