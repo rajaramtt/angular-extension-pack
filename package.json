@@ -2,7 +2,7 @@
   "name": "angular-extension-pack",
   "displayName": "Angular Extension Pack",
   "description": "An extension pack for Angular developers.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -27,7 +27,7 @@
     "pflannery.vscode-versionlens",
     "rexebin.classlens",
     "rexebin.f12-open-file",
-    "robertohuertasm.vscode-icons",
+    "PKief.material-icon-theme",
     "stringham.move-ts",
     "eamodio.gitlens",
     "NG-42.ng-fortytwo-vscode-extension",

@@ -60,10 +60,6 @@ An extension pack for Angular developers.
 
     Shows the current regular expression's matches in a side-by-side document.
 
-1.  [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
-
-    Bring icons to your Visual Studio Code. Making the project tree clear.
-
 1.  [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 
     Yarn from vscode.
@@ -99,3 +95,7 @@ An extension pack for Angular developers.
     * shift + enter Insert semicolon at the end of line and continue on the same line
     * alt + enter Insert semicolon at the end of line and continue on the new line
     * ctrl + alt + enter Insert semicolon and stay at the same position
+
+1.  [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+    The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
