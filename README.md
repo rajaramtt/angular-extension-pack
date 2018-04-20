@@ -85,3 +85,13 @@ An extension pack for Angular developers.
 1.  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
     Automatically rename paired HTML/XML tag.
+
+1.  [Colonize](https://marketplace.visualstudio.com/items?itemName=vmsynkov.colonize)
+
+    Light weight extension resembling Statement Completion.
+
+    Adds three shotcuts to insert semicolons with ease;
+
+    shift + enter Insert semicolon at the end of line and continue on the same line
+    alt + enter Insert semicolon at the end of line and continue on the new line
+    ctrl + alt + enter Insert semicolon and stay at the same position
