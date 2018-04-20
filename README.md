@@ -19,6 +19,7 @@ An extension pack for Angular developers.
 1.  [ClassLens](https://marketplace.visualstudio.com/items?itemName=rexebin.classlens)
 
     CodeLens extension identifying override members and interface implementation members
+
     Code navigation from Child members to parent members.
 
 1.  [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
@@ -40,6 +41,7 @@ An extension pack for Angular developers.
 1.  [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 
     Syntax highlighting of inline html and css.
+
     Code completion, highlighting, and hover information for inline html.
 
 1.  [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
@@ -68,7 +70,9 @@ An extension pack for Angular developers.
 
 1.  [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
 
-    Sync all of your VSCode settings across multiple devices with GitHub Gist. Very handy for those who work with multiple computers in multiple places.
+    Sync all of your VSCode settings across multiple devices with GitHub Gist.
+
+    Very handy for those who work with multiple computers in multiple places.
 
 1.  [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension)
 
@@ -92,6 +96,6 @@ An extension pack for Angular developers.
 
     Adds three shotcuts to insert semicolons with ease;
 
-    shift + enter Insert semicolon at the end of line and continue on the same line
-    alt + enter Insert semicolon at the end of line and continue on the new line
-    ctrl + alt + enter Insert semicolon and stay at the same position
+    * shift + enter Insert semicolon at the end of line and continue on the same line
+    * alt + enter Insert semicolon at the end of line and continue on the new line
+    * ctrl + alt + enter Insert semicolon and stay at the same position
