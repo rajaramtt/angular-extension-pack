@@ -22,6 +22,10 @@ An extension pack for Angular developers.
 
     Code navigation from Child members to parent members.
 
+1.  [F12: Open File](https://marketplace.visualstudio.com/items?itemName=rexebin.f12-open-file)
+
+    Open Angular's templateUrl and styleUrls at a key stroke: F12
+
 1.  [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
     Integrates the tslint linter for the TypeScript language into VS Code.
@@ -47,10 +51,6 @@ An extension pack for Angular developers.
 1.  [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
 
     Supports moving typescript files and updating relative imports within the workspace.
-
-1.  [F12: Open File](https://marketplace.visualstudio.com/items?itemName=rexebin.f12-open-file)
-
-    Open Angular's templateUrl and styleUrls at a key stroke: F12
 
 1.  [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
@@ -89,3 +89,11 @@ An extension pack for Angular developers.
 1.  [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
     The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
+
+1.  [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+    Git History, Search and More
+
+1.  [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
+
+    Syncing is a VSCode extension, designed to sync all of your VSCode settings across multiple devices with GitHub Gist.
