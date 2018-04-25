@@ -16,11 +16,9 @@ An extension pack for Angular developers.
 
     VS Code package to format your JavaScript / TypeScript / CSS using Prettier.
 
-1.  [ClassLens](https://marketplace.visualstudio.com/items?itemName=rexebin.classlens)
+1.  [Class IO](https://marketplace.visualstudio.com/items?itemName=rexebin.classio)
 
-    CodeLens extension identifying override members and interface implementation members
-
-    Code navigation from Child members to parent members.
+    Class IO shows relationships with its interfaces and parent class in a non-obstructive way. Class IO is an alternative to ClassLens.
 
 1.  [F12: Open File](https://marketplace.visualstudio.com/items?itemName=rexebin.f12-open-file)
 
@@ -38,19 +36,11 @@ An extension pack for Angular developers.
 
     Shows package version information for npm, jspm, bower, dub and dotnet core in the Visual Studio Code editor.
 
-1.  [Angular 6 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
-
-    Visual Studio Code TypeScript and Html snippets and code examples for Angular 2,4,5 & 6.
-
 1.  [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
 
     Syntax highlighting of inline html and css.
 
     Code completion, highlighting, and hover information for inline html.
-
-1.  [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
-
-    Supports moving typescript files and updating relative imports within the workspace.
 
 1.  [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
@@ -63,10 +53,6 @@ An extension pack for Angular developers.
 1.  [NG.42 TS Helpers](https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension)
 
     Typescript helper: create barrels with one click, ngrx snippets.
-
-1.  [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
-
-    An Angular test generator.
 
 1.  [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 

@@ -1,8 +1,8 @@
 {
-  "name": "angular-extension-pack",
-  "displayName": "Angular Extension Pack",
-  "description": "An extension pack for Angular developers.",
-  "version": "0.0.8",
+  "name": "angular-lite",
+  "displayName": "Angular Lite",
+  "description": "An lite extension pack for Angular developers.",
+  "version": "0.0.1",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -11,29 +11,25 @@
   "engines": {
     "vscode": "^1.22.0"
   },
-  "keywords": ["angular", "extension pack", "extension"],
+  "keywords": ["angular", "extension pack", "extension", "lite"],
   "categories": ["Extension Packs"],
   "extensionDependencies": [
     "Angular.ng-template",
     "christian-kohler.path-intellisense",
-    "chrmarti.regex",
     "eg2.tslint",
     "esbenp.prettier-vscode",
-    "gamunu.vscode-yarn",
-    "Mikael.Angular-BeastCode",
     "msjsdiag.debugger-for-chrome",
     "natewallace.angular2-inline",
     "pflannery.vscode-versionlens",
-    "rexebin.classlens",
+    "rexebin.classio",
     "rexebin.f12-open-file",
     "PKief.material-icon-theme",
-    "stringham.move-ts",
     "NG-42.ng-fortytwo-vscode-extension",
-    "SimonTest.simontest",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "vmsynkov.colonize",
     "donjayamanne.githistory",
-    "nonoroazoro.syncing"
+    "nonoroazoro.syncing",
+    "gamunu.vscode-yarn"
   ]
 }
