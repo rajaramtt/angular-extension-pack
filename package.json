@@ -2,7 +2,7 @@
   "name": "angular-lite",
   "displayName": "Angular Lite",
   "description": "An lite extension pack for Angular developers.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -30,6 +30,7 @@
     "vmsynkov.colonize",
     "donjayamanne.githistory",
     "nonoroazoro.syncing",
-    "gamunu.vscode-yarn"
+    "gamunu.vscode-yarn",
+    "pranaygp.vscode-css-peek"
   ]
 }
