@@ -97,3 +97,7 @@ An extension pack for Angular developers.
 1.  [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing)
 
     Syncing is a VSCode extension, designed to sync all of your VSCode settings across multiple devices with GitHub Gist.
+
+1.  [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
+    This extension extends HTML and ejs code editing with Go To Definition and Go To Symbol in Workspace support for css/scss/less (classes and IDs) found in strings within the source code.
