@@ -2,7 +2,7 @@
   "name": "angular-extension-pack",
   "displayName": "Angular Extension Pack",
   "description": "An extension pack for Angular developers.",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -35,6 +35,7 @@
     "vmsynkov.colonize",
     "donjayamanne.githistory",
     "nonoroazoro.syncing",
-    "pranaygp.vscode-css-peek"
+    "pranaygp.vscode-css-peek",
+    "streetsidesoftware.code-spell-checker"
   ]
 }

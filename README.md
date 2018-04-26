@@ -32,7 +32,7 @@ An extension pack for Angular developers.
 
 1.  [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-    Visual Studio Code plugin that autocompletes filenames.
+    Visual Studio Code plugin that auto completes filenames.
 
 1.  [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 
@@ -80,7 +80,7 @@ An extension pack for Angular developers.
 
     Light weight extension resembling Statement Completion.
 
-    Adds three shotcuts to insert semicolons with ease;
+    Adds three shortcuts to insert semicolons with ease;
 
     * shift + enter Insert semicolon at the end of line and continue on the same line
     * alt + enter Insert semicolon at the end of line and continue on the new line
@@ -101,3 +101,7 @@ An extension pack for Angular developers.
 1.  [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
     This extension extends HTML and ejs code editing with Go To Definition and Go To Symbol in Workspace support for css/scss/less (classes and IDs) found in strings within the source code.
+
+1.  [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+    A basic spell checker that works well with camelCase code.
