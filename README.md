@@ -91,3 +91,7 @@ An extension pack for Angular developers.
 1.  [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
     A basic spell checker that works well with camelCase code.
+
+1.  [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+    This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
