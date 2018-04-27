@@ -18,7 +18,7 @@ An extension pack for Angular developers.
 
 1.  [Class IO](https://marketplace.visualstudio.com/items?itemName=rexebin.classio)
 
-    Class IO shows relationships with its interfaces and parent class in a non-obstructive way. Class IO is an alternative to ClassLens.
+    Class IO shows class's relationships with its interfaces and parent class in a non-obstructive way. Class IO is an alternative to ClassLens.
 
 1.  [F12: Open File](https://marketplace.visualstudio.com/items?itemName=rexebin.f12-open-file)
 

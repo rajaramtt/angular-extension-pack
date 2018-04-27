@@ -1,8 +1,8 @@
 {
   "name": "angular-lite",
   "displayName": "Angular Lite",
-  "description": "An lite extension pack for Angular developers.",
-  "version": "0.0.3",
+  "description": "A light weight extension pack for Angular developers.",
+  "version": "0.0.4",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
