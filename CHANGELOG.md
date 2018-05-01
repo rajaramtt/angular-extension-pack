@@ -1,3 +1,7 @@
+## 0.0.6
+
+Add Dracula Theme - WebStorm Edition
+
 ## 0.0.5
 
 Add Bracket Pair Colorizer

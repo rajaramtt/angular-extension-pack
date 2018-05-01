@@ -2,7 +2,7 @@
   "name": "angular-lite",
   "displayName": "Angular Lite",
   "description": "A light weight extension pack for Angular developers.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -33,6 +33,7 @@
     "gamunu.vscode-yarn",
     "pranaygp.vscode-css-peek",
     "streetsidesoftware.code-spell-checker",
-    "CoenraadS.bracket-pair-colorizer"
+    "CoenraadS.bracket-pair-colorizer",
+    "rexebin.dracula"
   ]
 }

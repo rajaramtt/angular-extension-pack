@@ -95,3 +95,7 @@ An extension pack for Angular developers.
 1.  [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
     This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
+
+1.  [Dracula - WebStorm Edition](https://marketplace.visualstudio.com/items?itemName=rexebin.dracula)
+
+    This is a Dracula Dark Theme mirroring colors in the Dracula theme in WebStorm by JetBrains.
