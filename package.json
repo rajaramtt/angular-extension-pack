@@ -2,7 +2,7 @@
   "name": "angular-extension-pack",
   "displayName": "Angular Extension Pack",
   "description": "An extension pack for Angular developers.",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "publisher": "rexebin",
   "icon": "angular.png",
   "repository": {
@@ -37,7 +37,6 @@
     "nonoroazoro.syncing",
     "pranaygp.vscode-css-peek",
     "streetsidesoftware.code-spell-checker",
-    "CoenraadS.bracket-pair-colorizer",
     "rexebin.dracula"
   ]
 }

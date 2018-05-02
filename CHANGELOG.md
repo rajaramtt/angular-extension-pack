@@ -1,3 +1,7 @@
+## 0.0.13
+
+Remove Bracket Pair Colorizer. New Vscode will highlight scope by default.
+
 ## 0.0.12
 
 Add Dracula Theme - WebStorm Edition
